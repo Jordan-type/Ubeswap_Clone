@@ -31,6 +31,4 @@ function getAccount() {
     })
 }
 
-module.exports = {
-    getAccount
-}
+module.exports = { getAccount }
